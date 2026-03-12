@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "悲しみは雪のように(single / 1992)",
+  "base_artist": "浜田　省吾",
+  "createdAt": "2026-03-12T13:56:59.477956Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悲しみは雪のように(single / 1992)",
+      "artist": "Shogo Hamada",
+      "has_synced": true,
+      "path": "select/01_悲しみは雪のように(single___1992)_Shogo_Hamada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悲しみは雪のように(single / 1992) - Sorrows Falling Down Like Snowflakes (single / 1992)",
+      "artist": "Shogo Hamada",
+      "has_synced": true,
+      "path": "select/02_悲しみは雪のように(single___1992)_-_Sorrows_Falling_Down_Like_Snowflakes_(single___1992)_Shogo_Hamada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悲しみは雪のように(single / 1992)",
+      "artist": "浜田省吾",
+      "has_synced": true,
+      "path": "select/03_悲しみは雪のように(single___1992)_浜田省吾.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悲しみは雪のように (single version)",
+      "artist": "浜田 省吾",
+      "has_synced": false,
+      "path": "select/pl_01_悲しみは雪のように_(single_version)_浜田_省吾.txt"
+    }
+  ]
+}
